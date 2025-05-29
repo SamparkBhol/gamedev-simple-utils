@@ -2,6 +2,8 @@
 
 A lightweight utility package for game development, providing simple helper functions to streamline common tasks in JavaScript-based games.
 
+![image](https://github.com/user-attachments/assets/f80c5dc8-d7bd-4d45-bbed-1595827ac983)
+
 ---
 
 ## 📦 Installation
