@@ -1,0 +1,16 @@
+{
+  "name": "gamedev-simple-utils",
+  "version": "1.0.0",
+  "description": "A simple utility package for game development",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "esbuild src/index.js --bundle --outfile=dist/index.js --format=cjs --platform=node",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["game", "utils", "random"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "esbuild": "^0.23.0"
+  }
+}
